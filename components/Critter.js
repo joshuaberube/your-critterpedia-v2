@@ -7,7 +7,7 @@ const Critter = ({critter: {icon_uri, id, name}}) => {
                 alt={`${name["name-USen"]}`}
                 width={50}
                 height={50}
-                // priority
+                priority
             />
             {name["name-USen"]}
         </div>
