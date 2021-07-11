@@ -18,3 +18,5 @@ const Entry = () => {
         </div>
     )
 }
+
+export default Entry
